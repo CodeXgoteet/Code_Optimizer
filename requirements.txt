@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+jinja2
+python-dotenv
+langchain 
+transformers 
+huggingface-hub
+torch
+langchain_community
+openai
